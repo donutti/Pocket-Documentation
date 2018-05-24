@@ -24,6 +24,8 @@ Problem definition:
 ----
 ## Photogrammetry
 ![](image/Photogrammetry_pointcloud.gif) <!-- .element width="40%" -->
+<br>
+<p style="font-size:20px"><b>WorkFlow Example:</b> Multiple Pictures -> PointCloud -> Mesh -> Model Optimization -> Slicer -> 3D Printer -> 3D Object
 ----
 ## Photogrammetry in practice
 ![](image/3dscan_photogrammetry.jpg) <!-- .element width="40%" -->
