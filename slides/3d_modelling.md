@@ -34,10 +34,9 @@ Problem definition:
 - Agisoft Photoscan <span style="font-size:20px"> (**Paid**) </span>
 - COLMAP together with OpenMVS <span style="font-size:20px"> (**Free**)</span>
 ---
-
 ## Organic or Engineering?
-![](image/artistic_modelling.jpg) <!-- .element width="45%" .element height="200%"-->
-![](image/engineering_modelling.jpg) <!-- .element width="50%" -->
+![](image/artistic_modelling.jpg) <!-- .element height="250px"-->
+![](image/onshape_assembly1.png) <!-- .element height="250px"-->
 ---
 ## Organic
 ![](image/cat_girder_organic.jpg) <!-- .element height="300px"-->
@@ -60,6 +59,18 @@ Problem definition:
 ## Tools
 - Inventor <span style="font-size:20px"> (**Paid**) </span>
 - On Shape <span style="font-size:20px"> (**Free**) </span>
+---
+## Summary
+<table border = "2">
+      <tr>
+         <td>Row 1, Column 1</td>
+         <td>Row 1, Column 2</td>
+      </tr>
+      <tr>
+         <td>Row 2, Column 1</td>
+         <td>Row 2, Column 2</td>
+      </tr>
+   </table>
 ---
 ## Engineering Modelling Basics
 ----
@@ -94,6 +105,9 @@ Problem definition:
 ## Additional
 - projected geometry
 - custom defined work planes
+<br>
+<br>
+ ...and many others
 ---
 ## Practical Showcase
 ![](image/baby drawer lock.png) <!-- .element height="200px"-->
