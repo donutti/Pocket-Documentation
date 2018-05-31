@@ -12,12 +12,11 @@ Problem definition:
 - How to create an stl file = input for Slicer
 <br>
 <br>
-<p style="font-size:20px"><i>Remember the chain: model (stl) -> slicer (g.code) -> Printer -> 3D Object</i>
+<p style="font-size:20px"><i>Remember the chain: model (stl) &rarr; slicer (g.code) &rarr; Printer &rarr; 3D Object</i>
 ---
-
 ## Modelling or Scanning?
-![](image/boxtohead_modelling.jpg) <!-- .element width="30%"-->
-![](image/3dscan_table.jpg) <!-- .element width="45%" -->
+![](image/boxtohead_modelling.jpg) <!-- .element height="300px"-->
+![](image/3dscan_table.jpg) <!-- .element height="300px" -->
 ----
 ## Scanning
 ![](image/3d_scanner_engine.jpg) <!-- .element width="40%" -->
@@ -25,19 +24,78 @@ Problem definition:
 ## Photogrammetry
 ![](image/Photogrammetry_pointcloud.gif) <!-- .element width="40%" -->
 <br>
-<p style="font-size:20px"><b>WorkFlow Example:</b> Multiple Pictures -> PointCloud -> Mesh -> Model Optimization -> Slicer -> 3D Printer -> 3D Object
+<p style="font-size:20px"><b>WorkFlow Example:</b> Multiple Pictures &rarr; PointCloud &rarr; Mesh &rarr; Model Optimization &rarr; Slicer &rarr; 3D Printer &rarr; 3D Object
 ----
 ## Photogrammetry in practice
 ![](image/3dscan_photogrammetry.jpg) <!-- .element width="40%" -->
 ![](image/photogrammetry_mine.jpg) <!-- .element width="40%" -->
 ----
 ## Available Tools
-<b>Paid</b>: e.g. Agisoft Photoscan <p style="font-size:20px">(www.agisoft.com)</p style>
-<b>OR</b>
-<br>
-<b>Free:</b> e.g. COLMAP together with OpenMVS <p style="font-size:20px">(colmap.github.io, cdcseacave.github.io/openMVS)
+- Agisoft Photoscan <span style="font-size:20px"> (**Paid**) </span>
+- COLMAP together with OpenMVS <span style="font-size:20px"> (**Free**)</span>
 ---
 
 ## Organic or Engineering?
 ![](image/artistic_modelling.jpg) <!-- .element width="45%" .element height="200%"-->
 ![](image/engineering_modelling.jpg) <!-- .element width="50%" -->
+---
+## Organic
+![](image/cat_girder_organic.jpg) <!-- .element height="300px"-->
+- similar tools & technique as in engineering, different mindset
+- more demanding on ones artistic skills and imagination
+----
+## Tools
+- Maya <span style="font-size:20px"> (**Paid**) </span>
+- 3D Max <span style="font-size:20px"> (**Paid**) </span>
+- Blender <span style="font-size:20px"> (**Free**)</span>
+---
+## Engineering
+![](image/inventor_assembly.PNG) <!-- .element height="300px"-->
+- more structured and descriptive flow
+- easier start for beginners
+- ideal for practical items
+- better control over measures
+- for more complex assemblies with retro-designing
+----
+## Tools
+- Inventor <span style="font-size:20px"> (**Paid**) </span>
+- On Shape <span style="font-size:20px"> (**Free**) </span>
+---
+## Engineering Modelling Basics
+----
+## Extrude
+![](image/extrude_a.png) <!-- .element height="200px"-->
+![](image/extrude_b.png) <!-- .element height="200px"-->
+----
+## Revolve
+![](image/revolve_a.png) <!-- .element height="200px"-->
+![](image/revolve_b.png) <!-- .element height="200px"-->
+----
+## Lathe
+![](image/lathe_a.png) <!-- .element height="200px"-->
+![](image/lathe_b.png) <!-- .element height="200px"-->
+----
+## Loft
+![](image/loft_a.png) <!-- .element height="200px"-->
+![](image/loft_b.png) <!-- .element height="200px"-->
+----
+## Sweep
+![](image/sweep_a.png) <!-- .element height="200px"-->
+![](image/sweep_b.png) <!-- .element height="200px"-->
+----
+## Compound/Boolean
+![](image/bool_a.png) <!-- .element height="200px"-->
+![](image/bool_b.png) <!-- .element height="200px"-->
+----
+## Mirror
+![](image/Mirror_a.png) <!-- .element height="200px"-->
+![](image/mirror_b.png) <!-- .element height="200px"-->
+----
+## Additional
+- projected geometry
+- custom defined work planes
+---
+## Practical Showcase
+![](image/baby drawer lock.png) <!-- .element height="200px"-->
+or
+![](image/kolobeza_blatnik.jpg) <!-- .element height="200px"-->
