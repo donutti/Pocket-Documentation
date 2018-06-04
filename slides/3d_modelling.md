@@ -27,8 +27,12 @@ Problem definition:
 <p style="font-size:20px"><b>WorkFlow Example:</b> Multiple Pictures &rarr; PointCloud &rarr; Mesh &rarr; Model Optimization &rarr; Slicer &rarr; 3D Printer &rarr; 3D Object
 ----
 ## Photogrammetry in practice
-![](image/3dscan_photogrammetry.jpg) <!-- .element width="40%" -->
-![](image/photogrammetry_mine.jpg) <!-- .element width="40%" -->
+![](image/3dscan_photogrammetry.jpg) <!-- .element height="250px"-->
+![](image/photogrammetry_mine.jpg) <!-- .element height="250px"-->
+----
+## Photogrammetry drawbacks
+- unoptimized mesh
+- postproduction needed
 ----
 ## Available Tools
 - Agisoft Photoscan <span style="font-size:20px"> (**Paid**) </span>
@@ -59,18 +63,6 @@ Problem definition:
 ## Tools
 - Inventor <span style="font-size:20px"> (**Paid**) </span>
 - On Shape <span style="font-size:20px"> (**Free**) </span>
----
-## Summary
-<table border = "2">
-      <tr>
-         <td>Row 1, Column 1</td>
-         <td>Row 1, Column 2</td>
-      </tr>
-      <tr>
-         <td>Row 2, Column 1</td>
-         <td>Row 2, Column 2</td>
-      </tr>
-   </table>
 ---
 ## Engineering Modelling Basics
 ----
