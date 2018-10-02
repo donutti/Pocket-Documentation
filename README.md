@@ -6,7 +6,8 @@ Pocket Recruiter Team does its best maintaining this documentation and making su
 Pocket Recruiter is a feature rich product built as a recruitment framework that connects multiple modules that work seamlessly as one application and that easily integrate with other external systems such Applicant Tracking Systems (ATS), Customer Relationship Managers (CRM), Vendor Management System (VMS), Job Boards and Social Media. The product at its core uses advanced Artificial Intelligence and Learning algorithms to increase the recruitment experience from every angle, recruiters, hiring managers, account managers, candidates, and contractors. 
 
 ## Dashboard and Reporting
-Additional dashboard features and reports for management have been added in order to more easily identify recruiters and jobs that need special attention as well as improved metrics for system and recruiter performance. 
+Additional dashboard features and reports for management have been added in order to more easily identify recruiters and jobs that need special attention as well as improved metrics for system and recruiter performance.
+![Image of PR Dashboard](https://donutti.github.com/Dashboard_01.png)
 
 ## Intelligent Job Postings
 This feature analyses a Job Description and automatically generates aliases and improves terminology on a Job Description before posting jobs in order to improve chances of candidates finding the job using keyword searches on internal or external job boards.
@@ -36,6 +37,9 @@ Overall our clients have lots of accolades about our support. The following feat
 
 
 ## User Configuration
+### User Management
+### Rights & Permissions
+### Email Configuration
 ### Workflow Manager
 
 # Technical References
