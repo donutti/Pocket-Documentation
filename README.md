@@ -7,7 +7,7 @@ Pocket Recruiter is a feature rich product built as a recruitment framework that
 
 ## Dashboard and Reporting
 Additional dashboard features and reports for management have been added in order to more easily identify recruiters and jobs that need special attention as well as improved metrics for system and recruiter performance.
-![Image of PR Dashboard](https://github.com/donutti/Pocket-Documentation/Dashboard_01.png)
+![Image of PR Dashboard](https://donutti.github.com/Dashboard_01.png)
 
 ## Intelligent Job Postings
 This feature analyses a Job Description and automatically generates aliases and improves terminology on a Job Description before posting jobs in order to improve chances of candidates finding the job using keyword searches on internal or external job boards.
