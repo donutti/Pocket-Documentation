@@ -1,5 +1,5 @@
 # Summary
-This documentation is the actual description of all **Pocket Recruiter** (“PR”) features and functionalities. It also includes various **technical references** in order to support customer technical teams in flawless integration between PR, their systems and 3rd party services (e.g. ATS, Job Board etc.)
+This documentation, together with our extensive help library, provides an exhaustive description of all **Pocket Recruiter** (“PR”) features and functionalities. It also includes various **technical references** in order to support customer technical teams in flawless integration between PR, their systems and 3rd party services (e.g. ATS, Job Board etc.)
 Pocket Recruiter Team does its best maintaining this documentation and making sure it's always up to date ready for our customers, however, should you find any information inacurate or missing we are happy to receive your feedback on _**support@pocketrecruiter.com**_
 
 # Functional Modules
