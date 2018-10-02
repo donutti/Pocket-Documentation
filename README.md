@@ -7,7 +7,7 @@ Pocket Recruiter is a feature rich product built as a recruitment framework that
 
 ## Dashboard and Reporting
 Additional dashboard features and reports for management have been added in order to more easily identify recruiters and jobs that need special attention as well as improved metrics for system and recruiter performance.
-![Image of PR Dashboard](https://donutti.github.com/Dashboard_01.png)
+![Image of PR Dashboard](https://github.com/donutti/Dashboard_01.png)
 
 ## Intelligent Job Postings
 This feature analyses a Job Description and automatically generates aliases and improves terminology on a Job Description before posting jobs in order to improve chances of candidates finding the job using keyword searches on internal or external job boards.
@@ -47,7 +47,8 @@ Overall our clients have lots of accolades about our support. The following feat
 The primary function of Pocket Recruiter is to provide services that automate and facilitate the tasks within the recruiting process. The services are provided to recruiting firms, companies with in-house staffing models and job-seeking candidates via Mobile/Web interfaces.
 
 At the core of the recruiting process is the matching of Candidates to Opportunities and vice versa. This is the main point of the recruiting process we are looking to improve. Today, recruiters facilitate this matching process by having humans search through large databases of resumes and manually, somewhat artfully, match them to the opportunities they are trying to fill. In order to improve the accuracy of the matching, Pocket Recruiter focusses on matching Opportunities containing Job Descriptions and Structured Data to Candidate Profiles comprised of Structured Data and Resumes.
-[link to Pocket Recruiter online API Reference!](https://dev-api.pocketrecruiter.com)
+
+[Link to Pocket Recruiter online API Reference!](https://dev-api.pocketrecruiter.com)
 
 ## Object Model
 ## Connection Framework
