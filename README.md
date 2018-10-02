@@ -40,6 +40,8 @@ Overall our clients have lots of accolades about our support. The following feat
 
 # Technical References
 ## API
+[link to PR API Reference!](https://dev-api.pocketrecruiter.com)
+
 ## Object Model
 ## Connection Framework
 ## Integration Modules
