@@ -11,12 +11,16 @@ Additional dashboard features and reports for management have been added in orde
 
 ## Intelligent Job Postings
 This feature analyses a Job Description and automatically generates aliases and improves terminology on a Job Description before posting jobs in order to improve chances of candidates finding the job using keyword searches on internal or external job boards.
+![Image of PR Dashboard](https://donutti.github.io/Pocket-Documentation/Opportunity_01.png)
+
 ### Online Job Board Referrals
 This feature enables PR user to sign up to use Job Boards which we have partnerships with right out of Pocket Recruiter. Pocket Recruiter has already signed partner agreements with four major job boards that will generate revenue for PR when this feature is implemented.
 
 ## Intelligent Candidate Module
 ### Document Reader
 ### Candidate Reader
+![Image of PR Dashboard](https://donutti.github.io/Pocket-Documentation/Candidate_01.png)
+
 ### Candidate Engagement
 ## Intelligent Matching
 Overall our clients have driven our matching to new levels and satisfaction with match scores keep improving surpassing our 80% target in most cases. The following is a list of features that are in progress this year to further improve match scores and the review. 
