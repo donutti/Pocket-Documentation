@@ -40,6 +40,9 @@ Overall our clients have lots of accolades about our support. The following feat
 
 # Technical References
 ## API
+The primary function of Pocket Recruiter is to provide services that automate and facilitate the tasks within the recruiting process. The services are provided to recruiting firms, companies with in-house staffing models and job-seeking candidates via Mobile/Web interfaces.
+
+At the core of the recruiting process is the matching of Candidates to Opportunities and vice versa. This is the main point of the recruiting process we are looking to improve. Today, recruiters facilitate this matching process by having humans search through large databases of resumes and manually, somewhat artfully, match them to the opportunities they are trying to fill. In order to improve the accuracy of the matching, Pocket Recruiter focusses on matching Opportunities containing Job Descriptions and Structured Data to Candidate Profiles comprised of Structured Data and Resumes.
 [link to PR API Reference!](https://dev-api.pocketrecruiter.com)
 
 ## Object Model
