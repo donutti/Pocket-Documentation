@@ -4,7 +4,7 @@ Pocket Recruiter Team does its best maintaining this documentation and making su
 
 # 1 Functional Modules
 Pocket Recruiter is a feature rich product built as a recruitment framework that connects multiple modules that work seamlessly as one application and that easily integrate with other external systems such Applicant Tracking Systems (ATS), Customer Relationship Managers (CRM), Vendor Management System (VMS), Job Boards and Social Media. The product at its core uses advanced Artificial Intelligence and Learning algorithms to increase the recruitment experience from every angle, recruiters, hiring managers, account managers, candidates, and contractors. 
-<video src="https://s3.amazonaws.com/prweb-assets-prod/documents/after_login.mp4" width="320" height="200" controls preload></video>
+<video src="https://s3.amazonaws.com/prweb-assets-prod/documents/after_login.mp4" width="939" height="471" controls preload></video>
 
 ## 1.1 Dashboard and Reporting
 Additional dashboard features and reports for management have been added in order to more easily identify recruiters and jobs that need special attention as well as improved metrics for system and recruiter performance.
